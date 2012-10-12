@@ -13,6 +13,7 @@ footdict = {'1206_capacitor.fp':'1206',
             '0603_capacitor.fp':'0603'}
 """ Fill in the naming convention for dielectrics """
 dieldict = {'x7r':'x7r',
+            'x5r':'x5r',
             'np0':'np0',
             'c0g':'c0g'}
 
